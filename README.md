@@ -1,0 +1,2 @@
+# mainsoft
+auto
